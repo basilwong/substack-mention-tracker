@@ -1,6 +1,6 @@
 # Substack Mention Tracker
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/basilwong/substack-mention-tracker/blob/main/substack_mention_tracker.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/basilwong/substack-mention-tracker/blob/main/Substack_Mention_Tracker-2.ipynb)
 
 A Python script that tracks how often specific terms (e.g., "Claude Code", "AI coding") appear in Substack articles over time, grouped by month.
 
