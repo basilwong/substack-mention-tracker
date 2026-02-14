@@ -1,0 +1,21 @@
+# Output files
+substack_mentions.csv
+substack_mentions_chart.png
+substack_mentions_detailed.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
